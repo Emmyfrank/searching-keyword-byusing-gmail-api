@@ -1,6 +1,6 @@
 # Jix Cv Search API
 
-Jix CV Search API is an Express-based API that allows HR to search for and download CVs and related documents from their Gmail account. The API fetches emails with attachments, extracts and provides download links for the attachments.
+searching-keyword-byusing-gmail-api is an Express-based API that allows a user to search for and download CVs and related documents from their Gmail account. The API fetches emails with attachments, extracts and provides download links for the attachments.
 
 ## Features
 
@@ -28,7 +28,7 @@ Jix CV Search API is an Express-based API that allows HR to search for and downl
 2. Navigate to the project directory:
 
    ```bash
-   cd jix-cv-search-backend
+   cd searching-keyword-byusing-gmail-api
 
    ```
 
