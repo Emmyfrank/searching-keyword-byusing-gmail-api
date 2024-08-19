@@ -1,4 +1,4 @@
-# Jix Cv Search API
+# searching-keyword-byusing-gmail-api
 
 searching-keyword-byusing-gmail-api is an Express-based API that allows a user to search for and download CVs and related documents from their Gmail account. The API fetches emails with attachments, extracts and provides download links for the attachments.
 
